@@ -49,3 +49,7 @@ $ python3 ./test_portfolio.py -a FDA
 
 All experimental data will be stored in individual folders for each algorithm, function and dimension, within `experiments_cec2020`, `experiments_socco2011` and `experiments_sp500`.
 The total size can reach 30 Gb.
+
+## Analysis
+
+Analysis are made in `analysis.ipynb`, summaries can be computed from raw data or downloaded from the data [repository]().
