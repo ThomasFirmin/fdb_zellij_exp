@@ -52,4 +52,4 @@ The total size can reach 30 Gb.
 
 ## Analysis
 
-Analysis are made in `analysis.ipynb`, summaries can be computed from raw data or downloaded from the data [repository]().
+Analysis are made in `analysis.ipynb`, summaries can be computed from raw data, directly available from this github repository, or downloaded from the data [repository]().
