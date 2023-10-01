@@ -7,7 +7,7 @@ Experiments use the in development [Zellij](https://github.com/ThomasFirmin/zell
 Please intall the Zellij version from [develop_t](https://github.com/ThomasFirmin/zellij/tree/develop_t) branch.
 
 ```
-$ pip install https://github.com/ThomasFirmin/repository/archive/develop_t
+$ pip install https://github.com/ThomasFirmin/zellij/archive/develop_t.zip
 ```
 
 ## Benchmarks data
