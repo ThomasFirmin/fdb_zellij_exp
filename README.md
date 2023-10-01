@@ -54,3 +54,7 @@ The total size can reach 30 Gb.
 
 Analysis are made in `analysis.ipynb`, summaries can be computed from raw data, directly available from this github repository, or downloaded from the data [repository]().
 Voluminous raw data can be sent on demand by contacting the author at thomas.firmin@univ-lille.fr
+
+
+## Experimental datasets
+Firmin, Thomas, 2023, "Experimental results for the paper "A fractal-based decomposition framework for continuous optimization"", https://doi.org/10.57745/0JEUEK, Recherche Data Gouv, V1, UNF:6:lW7nJ0QKwy3UZSdtxZVz/w== [fileUNF] 
